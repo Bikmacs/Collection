@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bikmacs\\Desktop\\\u041A\u043E\u043B\u0435\u043A\u0446\u0438\u0438 csharp\\2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C87A15E-C806-4EA1-9BF3-4AB069384A89}|2\\2.csproj|c:\\users\\bikmacs\\desktop\\\u043A\u043E\u043B\u0435\u043A\u0446\u0438\u0438 csharp\\2\\2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C87A15E-C806-4EA1-9BF3-4AB069384A89}|2\\2.csproj|solutionrelative:2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C87A15E-C806-4EA1-9BF3-4AB069384A89}|2\\2.csproj|C:\\Users\\Bikmacs\\Desktop\\\u041A\u043E\u043B\u0435\u043A\u0446\u0438\u0438 csharp\\2\\2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C87A15E-C806-4EA1-9BF3-4AB069384A89}|2\\2.csproj|solutionrelative:2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Bikmacs\\Desktop\\\u041A\u043E\u043B\u0435\u043A\u0446\u0438\u0438 csharp\\2\\2\\Form1.cs",
+              "RelativeDocumentMoniker": "2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bikmacs\\Desktop\\\u041A\u043E\u043B\u0435\u043A\u0446\u0438\u0438 csharp\\2\\2\\Form1.cs",
+              "RelativeToolTip": "2\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:53:01.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Bikmacs\\Desktop\\\u041A\u043E\u043B\u0435\u043A\u0446\u0438\u0438 csharp\\2\\2\\Form1.cs",
+              "RelativeDocumentMoniker": "2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bikmacs\\Desktop\\\u041A\u043E\u043B\u0435\u043A\u0446\u0438\u0438 csharp\\2\\2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:32:50.282Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
